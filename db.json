@@ -1,25 +1,16 @@
 {
-"action": [
+"aya": [
 { 
-"image": "https://g.top4top.io/p_22369ohs01.png" ,
-  "pht": "https://g.top4top.io/p_22369ohs01.png",
-    "title": "سورة الفاتحة",
-    "isa": "الحزب الأول",
-    "number": "عدد اياتها()"
+"ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
+  "title": "1/1"
   },
   {
- "image": "https://g.top4top.io/p_22369ohs01.png" ,
-  "pht": "https://g.top4top.io/p_22369ohs01.png",
-    "title": "سورة البقرة",
-    "isa": "الحزب الأول ",
-    "number": "عدد اياتها()"
+ "ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
+  "title": "1/1"
   },
   {
-"image": "https://g.top4top.io/p_22369ohs01.png" ,
-  "pht": "https://g.top4top.io/p_22369ohs01.png",
-    "title": "سورة البقرة ",
-    "isa": "الحزب الثاني",
-    "number": "عدد اياتها"
+"ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
+  "title": "1/1" 
   }
   ]
   }
