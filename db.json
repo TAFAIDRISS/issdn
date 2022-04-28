@@ -1,18 +1,18 @@
 [
   {
     "name" : "Heloo" ,
-    "text" : "hkak saha"
+    "text" : ["hkak", "saha"]
   },
   {
     "name" : "Heloo" ,
-    "text" : "hkak saha"
+    "text" : ["hkak", "saha"]
       },
   {
     "name" : "Heloo" ,
-    "text" : "hkak saha"
+    "text" : ["hkak", "saha"]
       },
   {
     "name" : "Heloo" ,
-    "text" : "hkak saha"
+    "text" : ["hkak", "saha"]
   }
   ]
