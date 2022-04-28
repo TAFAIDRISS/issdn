@@ -1,16 +1,18 @@
-{
-"aya": [
-{ 
-"ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
-  "title": "1/1"
+[
+  {
+    "name" : "Heloo" ,
+    "text" : "hkak saha"
   },
   {
- "ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
-  "title": "1/1"
-  },
+    "name" : "Heloo" ,
+    "text" : "hkak saha"
+      },
   {
-"ImageURL": "https://g.top4top.io/p_22369ohs01.png" ,
-  "title": "1/1" 
+    "name" : "Heloo" ,
+    "text" : "hkak saha"
+      },
+  {
+    "name" : "Heloo" ,
+    "text" : "hkak saha"
   }
   ]
-  }
